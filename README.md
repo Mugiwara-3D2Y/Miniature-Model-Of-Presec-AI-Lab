@@ -5,6 +5,7 @@ A miniature model of my school's robotics lab made by laser cutting plywood
 ## *Devlog*
 ### *Scaled the dimensions:* 3h 24m | Oct 24, 2026
 I am working without the blueprints of the building, and so to have an accurate miniature model, I had to measure and record every length of the building alone using only a regular tape measure. I had approximate dimensions I was pleased with and scaled it by *0.0225.
+<img width="1763" height="844" alt="image" src="https://github.com/user-attachments/assets/ec1536d0-c832-4269-8148-9be8893e538a" />
 
 ### *Interior and Exterior Designs:*  5h 41m | Oct 25, 2026
 I added all the spaces where the doors and windows go, still using the same scale.
